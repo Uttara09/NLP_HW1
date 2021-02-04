@@ -4,7 +4,6 @@ Readme File
 
 Name : Uttara Ravi
 Lionmail : ur2135@columbia.edu
-Phone number : 737-615-3464
 
 
 To train and test my classifier please run it as follows: 
